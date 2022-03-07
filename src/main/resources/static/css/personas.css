@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.container{
+    background: lightskyblue;
+    height: 100vh;
+    overflow-x:auto;
+}
+
+.table{
+    overflow-x:auto;
+}
